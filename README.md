@@ -31,8 +31,6 @@
 #### 🎥 Criador de conteúdo
 #### ⚡ Melhorando 1% todo dia!
 
-#### 📁 mood:  coding... 404_sleep_not_found
-#### ⌨️ activity:  compiling_dreams.exe
 
 
 
