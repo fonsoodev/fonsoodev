@@ -29,8 +29,10 @@
 #### 🌱 Atualmente estudando **JavaScript**, **Python** e **Desenvolvimento Web**
 #### 🎯 Focado em criar projetos e compartilhar conhecimento em tecnologia
 #### 🎥 Criador de conteúdo
+#### ⚡ Melhorando 1% todo dia!
 
-
+#### 📁 mood:  coding... 404_sleep_not_found
+#### ⌨️ activity:  compiling_dreams.exe
 
 
 
