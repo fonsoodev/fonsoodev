@@ -26,7 +26,7 @@
   -->
 </div>
 
-#### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+#### 🎓 Análise e Desenvolvimento de Sistemas
 #### 🎓 Diversos Cursos do Curso em Video e Alura
 #### 🌱 Atualmente estudando **JavaScript**, **Python** e **Desenvolvimento Web**
 #### 🎯 Focado em criar projetos e compartilhar conhecimento em tecnologia
