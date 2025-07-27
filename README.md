@@ -25,7 +25,9 @@
   <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   -->
 </div>
-
+<div align="center">
+  <img src="https://github.com/fonsoodev/fonsoodev/blob/output/github-contribution-grid-snake.svg" />
+</div>
 ![snake gif](https://github.com/fonsoodev/fonsoodev/blob/output/github-contribution-grid-snake.svg)
 
 
