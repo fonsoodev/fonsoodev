@@ -33,6 +33,9 @@
 #### 🎥 Criador de conteúdo
 #### ⚡ Melhorando 1% todo dia!
 
+![snake gif](https://github.com/fonsoodev/fonsoodev/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
