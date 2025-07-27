@@ -26,6 +26,9 @@
   -->
 </div>
 
+![snake gif](https://github.com/fonsoodev/fonsoodev/blob/output/github-contribution-grid-snake.svg)
+
+
 #### 🎓 Análise e Desenvolvimento de Sistemas
 #### 🎓 Diversos Cursos do Curso em Video e Alura
 #### 🌱 Atualmente estudando **JavaScript**, **Python** e **Desenvolvimento Web**
@@ -33,7 +36,6 @@
 #### 🎥 Criador de conteúdo
 #### ⚡ Melhorando 1% todo dia!
 
-![snake gif](https://github.com/fonsoodev/fonsoodev/blob/output/github-contribution-grid-snake.svg)
 
 
 
