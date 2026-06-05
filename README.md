@@ -30,6 +30,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, focado em constru
 </div>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonsoodev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
+
+<p align="center">
     <img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ4enF5Y2tnNWpqN3Rla2Fqd3lhdm83ZHN1ZnU3Ymo4ZHphNWc4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lBIEqcrsAoW5X6wwT4/giphy.gif" width="100%">
     </p>
 
