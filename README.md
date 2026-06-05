@@ -19,23 +19,14 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, focado em constru
 - 📚 **Hobbies:** Leitura, Jogos, Academia.
 
 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/fonsoodev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  <a href="https://github.com/fonsoodev" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fonsoodev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Status do GitHub" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fonsoodev&layout=compact&langs_count=7&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonsoodev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
 
-<p align="center">
-    <img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ4enF5Y2tnNWpqN3Rla2Fqd3lhdm83ZHN1ZnU3Ymo4ZHphNWc4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lBIEqcrsAoW5X6wwT4/giphy.gif" width="100%">
-    </p>
+
+
 
 
 
